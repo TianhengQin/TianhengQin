@@ -2,6 +2,8 @@
 
 
 https://github.com/Robxxt/miniRT
+![Alt text](https://github.com/Robxxt/miniRT/blob/main/Screen%20Shot%202024-01-31%20at%202.23.00%20AM.png?raw=true)
+
 
 <!--
 **TianhengQin/TianhengQin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
